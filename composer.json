@@ -38,8 +38,8 @@
     },
     "minimum-stability": "dev",
     "extra": {
-        "symfony-app-dir": "app",
-        "symfony-web-dir": "web",
+        "symfony-app-dir": "apps/pony",
+        "symfony-web-dir": "web/pony",
         "branch-alias": {
             "dev-master": "2.2-dev"
         }
