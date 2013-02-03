@@ -1,3 +1,8 @@
+Symfony Multi-Application Edition
+=================================
+
+This is an example of multi-Kernel project with Symfony2.
+
 Symfony Standard Edition
 ========================
 
