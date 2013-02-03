@@ -1,7 +1,9 @@
-/web/bundles/
-/app/bootstrap.php.cache
-/app/cache/*
-/app/logs/*
+/web/pony/bundles/
+/apps/pony/bootstrap.php.cache
+/apps/pony/cache/*
+/apps/api/cache/*
+/apps/pony/logs/*
+/apps/api/logs/*
 /build/
 /vendor/
 /bin/
