@@ -1,9 +1,9 @@
 <?php
 
-require_once __DIR__.'/AppKernel.php';
+require_once __DIR__.'/PonyKernel.php';
 
 use Symfony\Bundle\FrameworkBundle\HttpCache\HttpCache;
 
-class AppCache extends HttpCache
+class PonyCache extends HttpCache
 {
 }
