@@ -13,8 +13,8 @@ $loader = new ApcClassLoader('sf2', $loader);
 $loader->register(true);
 */
 
-require_once __DIR__.'/../../apps/api/AppKernel.php';
-require_once __DIR__.'/../../apps/api/AppCache.php';
+require_once __DIR__.'/../../apps/front/AppKernel.php';
+require_once __DIR__.'/../../apps/front/AppCache.php';
 
 $kernel = new AppKernel('prod', false);
 $kernel->loadClassCache();

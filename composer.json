@@ -6,6 +6,17 @@
     },
     "require": {
         "php": ">=5.3.3",
+        "gerardtoko/assetlib-bundle": "dev-master",
+        "gerardtoko/blacklist-bundle": "dev-master",
+        "liip/cache-control-bundle": "dev-master",
+        "genemu/form-bundle": "2.1.*",
+        "lexik/maintenance-bundle": "dev-master",
+        "friendsofsymfony/user-bundle": "*",
+        "doctrine/doctrine-fixtures-bundle": "dev-master",
+        "doctrine/doctrine-migrations-bundle": "dev-master",
+        "stof/doctrine-extensions-bundle": "dev-master",
+        "liip/imagine-bundle": "*",
+        "white-october/pagerfanta-bundle": "dev-master",
         "symfony/symfony": "2.2.*",
         "doctrine/orm": "~2.2,>=2.2.3",
         "doctrine/doctrine-bundle": "1.2.*",
@@ -38,8 +49,8 @@
     },
     "minimum-stability": "dev",
     "extra": {
-        "symfony-app-dir": "apps/pony",
-        "symfony-web-dir": "web/pony",
+        "symfony-app-dir": "apps/front",
+        "symfony-web-dir": "web/front",
         "branch-alias": {
             "dev-master": "2.2-dev"
         }
