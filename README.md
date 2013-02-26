@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-Symfony Multi-Application Edition
+
+Symfony Bootstrap Multi-Application Edition
 =================================
 
 This is an example of multi-Kernel project with Symfony2.
@@ -179,5 +179,4 @@ Enjoy!
 [14]: http://jmsyst.com/bundles/JMSDiExtraBundle/master
 [15]: http://symfony.com/doc/2.1/bundles/SensioGeneratorBundle/index.html
 =======
-symfony-bootstrap
-=================
+
