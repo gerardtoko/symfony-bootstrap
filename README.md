@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Symfony Multi-Application Edition
 =================================
 
@@ -177,3 +178,6 @@ Enjoy!
 [13]: http://jmsyst.com/bundles/JMSSecurityExtraBundle/master
 [14]: http://jmsyst.com/bundles/JMSDiExtraBundle/master
 [15]: http://symfony.com/doc/2.1/bundles/SensioGeneratorBundle/index.html
+=======
+symfony-bootstrap
+=================
